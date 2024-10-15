@@ -4,7 +4,7 @@
 This project was developed as part of a supervised project (PTUT) at the IUT of Bordeaux, in the Electrical Engineering and Industrial Computing (GEII) department. The goal is to design and develop an electric longboard, going through all stages of conception, modeling, and development.
 
 ## 🌐 Live Demo
-The project website is available here: [PTUT LBE - Electric Longboard](https://ptutgeiibx.tk)
+The project website is available here: [PTUT LBE - Electric Longboard](https://0xpb.github.io/GEII-2A-PTUT-LBE/)
 
 ## 📝 Site Content
 - **Overview**: Introduction to the project and team members.
@@ -54,4 +54,3 @@ For more information about the project, visit the social media pages of IUT GEII
 This repository is licensed under the GNU General Public License v3.0. You can read more about the terms and conditions here: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 Project developed at IUT of Bordeaux, GEII department.
-&copy; ptutgeiibx | All rights reserved.
